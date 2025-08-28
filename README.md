@@ -1,2 +1,2 @@
 # WinchRescueMod - DayZ
-This winch mod for DayZ will give players a fun, realistic tool for rescuing their vehicles, providing a much-needed solution for stranded cars. The mechanics—placement, interaction, cranking, and pulling—should give players a sense of accomplishment when they successfully retrieve a vehicle.
+This winch mod for DayZ will give players a fun, realistic tool for rescuing their stranded vehicles, providing a much-needed solution for pulling vehicles out of deep water. The mechanics placement, interaction, cranking, and pulling—should give players a sense of accomplishment when they successfully retrieve a vehicle. This mod is also intended to take a load off admins who are constantly recovering vehicles from deep water.
