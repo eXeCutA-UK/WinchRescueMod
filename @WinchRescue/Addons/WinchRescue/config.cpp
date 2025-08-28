@@ -21,7 +21,7 @@ class CfgMods
         hidePicture = 0;
         name = "Winch Rescue";
         credits = "";
-        author = "You + ChatGPT";
+        author = "eXeCutA + ChatGPT";
         authorID = "0";
         version = "1.0";
         type = "mod";
