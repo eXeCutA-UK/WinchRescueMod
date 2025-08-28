@@ -1,4 +1,4 @@
-XeCutA\
+\
 class CfgPatches
 {
     class WinchRescue
